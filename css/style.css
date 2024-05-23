@@ -1,0 +1,32 @@
+#icono{
+    justify-content: center;
+}
+#opcion-nav:hover{
+    background-color: rgba(11, 10, 107, 0.837);
+}
+#nav-icono{
+    height: 6rem;
+    width: 6rem;
+}
+#inicio{
+    justify-content: end;
+}
+#contenedor-icono{
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+#icono:hover a{
+    transform: scale(1.1);
+}
+#card{
+    text-align: center;
+    align-items: center;
+}
+#card-cabecera{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+#card-cabecera:hover{
+    box-shadow: none;
+}
